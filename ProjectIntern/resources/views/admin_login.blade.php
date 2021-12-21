@@ -105,5 +105,4 @@
     <script type="text/javascript" src="{{asset('public/assets/js/modernizr/css-scrollbars.js')}}"></script>
     <script type="text/javascript" src="{{asset('public/assets/js/common-pages.js')}}"></script>
 </body>
-
 </html>
