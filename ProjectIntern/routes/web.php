@@ -8,3 +8,4 @@ use App\Http\Controllers\HomeController;
 
 Route::get('/admin',[AdminController::class,'index']);
 Route::get('/home', [HomeController::class,'index']);
+Route::get('/admin/forgotpass',[AdminController::class,'forgotpass']);
