@@ -62,7 +62,7 @@
                                 </div>
                                 <hr/>
                                 <div class="input-group">
-                                    <input type="text" class="form-control" placeholder="User name">
+                                    <input type="text" required class="form-control" placeholder="User name">
                                     <span class="md-line"></span>
                                 </div>
                                 <div class="input-group">
@@ -71,12 +71,12 @@
                                 </div>
                                 <div class="row m-t-25 text-left">
                                     <div class="col-sm-5 col-xs-12 forgot-phone">
-                                        <a href="quen-mat-khau.html" class="text-right f-w-600 text-inverse">Forgot password?</a>
+                                        <a href="admin/forgotpass" class="text-right f-w-600 text-inverse">Forgot password?</a>
                                     </div>
                                 </div>
                                 <div class="row m-t-30">
                                     <div class="col-md-12">
-                                        <button type="button" class="btn btn-primary btn-md btn-block waves-effect text-center m-b-20">Login</button>
+                                        <button type="button" class="btn btn-primary btn-md btn-block waves-effect text-center m-b-20">Sign in</button>
                                     </div>
                                 </div>
                             </div>
